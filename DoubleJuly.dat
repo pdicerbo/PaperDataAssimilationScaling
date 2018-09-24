@@ -1,0 +1,660 @@
+using NP = 1, repetition number 1
+ Minimization done with          147 iterations
+real 133.64
+user 123.87
+sys 0.39
+
+using NP = 1, repetition number 2
+ Minimization done with          147 iterations
+real 133.58
+user 123.59
+sys 0.31
+
+using NP = 1, repetition number 3
+ Minimization done with          147 iterations
+real 133.46
+user 123.67
+sys 0.30
+
+using NP = 1, repetition number 4
+ Minimization done with          147 iterations
+real 133.69
+user 123.52
+sys 0.33
+
+using NP = 1, repetition number 5
+ Minimization done with          147 iterations
+real 133.74
+user 123.67
+sys 0.33
+
+using NP = 1, repetition number 6
+ Minimization done with          147 iterations
+real 133.50
+user 123.75
+sys 0.30
+
+using NP = 1, repetition number 7
+ Minimization done with          147 iterations
+real 133.61
+user 123.71
+sys 0.30
+
+using NP = 1, repetition number 8
+ Minimization done with          147 iterations
+real 133.92
+user 123.64
+sys 0.31
+
+using NP = 1, repetition number 9
+ Minimization done with          147 iterations
+real 133.74
+user 123.69
+sys 0.29
+
+using NP = 1, repetition number 10
+ Minimization done with          147 iterations
+real 133.65
+user 123.67
+sys 0.30
+
+using NP = 2, repetition number 1
+ Minimization done with           94 iterations
+real 78.09
+user 139.31
+sys 14.62
+
+using NP = 2, repetition number 2
+ Minimization done with           94 iterations
+real 75.65
+user 136.73
+sys 14.39
+
+using NP = 2, repetition number 3
+ Minimization done with           94 iterations
+real 76.10
+user 137.26
+sys 14.61
+
+using NP = 2, repetition number 4
+ Minimization done with           94 iterations
+real 75.70
+user 136.88
+sys 14.42
+
+using NP = 2, repetition number 5
+ Minimization done with           94 iterations
+real 75.68
+user 137.07
+sys 14.17
+
+using NP = 2, repetition number 6
+ Minimization done with           94 iterations
+real 76.04
+user 137.30
+sys 14.70
+
+using NP = 2, repetition number 7
+ Minimization done with           94 iterations
+real 75.14
+user 136.05
+sys 14.17
+
+using NP = 2, repetition number 8
+ Minimization done with           94 iterations
+real 75.77
+user 137.21
+sys 14.24
+
+using NP = 2, repetition number 9
+ Minimization done with           94 iterations
+real 75.73
+user 136.97
+sys 14.41
+
+using NP = 2, repetition number 10
+ Minimization done with           94 iterations
+real 75.56
+user 136.75
+sys 14.28
+
+using NP = 4, repetition number 1
+ Minimization done with           94 iterations
+real 37.92
+user 135.95
+sys 15.35
+
+using NP = 4, repetition number 2
+ Minimization done with           94 iterations
+real 37.56
+user 134.41
+sys 15.66
+
+using NP = 4, repetition number 3
+ Minimization done with           94 iterations
+real 37.36
+user 133.83
+sys 15.41
+
+using NP = 4, repetition number 4
+ Minimization done with           94 iterations
+real 37.43
+user 134.14
+sys 15.38
+
+using NP = 4, repetition number 5
+ Minimization done with           94 iterations
+real 37.30
+user 133.59
+sys 15.39
+
+using NP = 4, repetition number 6
+ Minimization done with           94 iterations
+real 37.57
+user 134.55
+sys 15.49
+
+using NP = 4, repetition number 7
+ Minimization done with           94 iterations
+real 37.62
+user 134.87
+sys 15.36
+
+using NP = 4, repetition number 8
+ Minimization done with           94 iterations
+real 37.30
+user 133.63
+sys 15.32
+
+using NP = 4, repetition number 9
+ Minimization done with           94 iterations
+real 37.56
+user 134.29
+sys 15.68
+
+using NP = 4, repetition number 10
+ Minimization done with           94 iterations
+real 37.47
+user 134.33
+sys 15.29
+
+using NP = 6, repetition number 1
+ Minimization done with           94 iterations
+real 25.82
+user 145.12
+sys 9.29
+
+using NP = 6, repetition number 2
+ Minimization done with           94 iterations
+real 25.85
+user 145.07
+sys 9.46
+
+using NP = 6, repetition number 3
+ Minimization done with           94 iterations
+real 25.77
+user 144.25
+sys 9.80
+
+using NP = 6, repetition number 4
+ Minimization done with           94 iterations
+real 25.77
+user 143.99
+sys 10.10
+
+using NP = 6, repetition number 5
+ Minimization done with           94 iterations
+real 25.77
+user 144.22
+sys 9.84
+
+using NP = 6, repetition number 6
+ Minimization done with           94 iterations
+real 25.77
+user 144.44
+sys 9.64
+
+using NP = 6, repetition number 7
+ Minimization done with           94 iterations
+real 25.71
+user 144.09
+sys 9.65
+
+using NP = 6, repetition number 8
+ Minimization done with           94 iterations
+real 25.72
+user 143.85
+sys 9.94
+
+using NP = 6, repetition number 9
+ Minimization done with           94 iterations
+real 25.77
+user 143.57
+sys 10.49
+
+using NP = 6, repetition number 10
+ Minimization done with           94 iterations
+real 25.95
+user 145.17
+sys 9.78
+
+using NP = 8, repetition number 1
+ Minimization done with           94 iterations
+real 23.12
+user 172.44
+sys 11.43
+
+using NP = 8, repetition number 2
+ Minimization done with           94 iterations
+real 23.02
+user 171.91
+sys 11.21
+
+using NP = 8, repetition number 3
+ Minimization done with           94 iterations
+real 23.11
+user 172.39
+sys 11.51
+
+using NP = 8, repetition number 4
+ Minimization done with           94 iterations
+real 23.04
+user 172.18
+sys 11.14
+
+using NP = 8, repetition number 5
+ Minimization done with           94 iterations
+real 22.99
+user 171.64
+sys 11.37
+
+using NP = 8, repetition number 6
+ Minimization done with           94 iterations
+real 23.01
+user 171.77
+sys 11.31
+
+using NP = 8, repetition number 7
+ Minimization done with           94 iterations
+real 23.04
+user 171.11
+sys 12.26
+
+using NP = 8, repetition number 8
+ Minimization done with           94 iterations
+real 23.09
+user 171.41
+sys 12.36
+
+using NP = 8, repetition number 9
+ Minimization done with           94 iterations
+real 22.97
+user 171.36
+sys 11.45
+
+using NP = 8, repetition number 10
+ Minimization done with           94 iterations
+real 23.04
+user 171.33
+sys 11.96
+
+using NP = 10, repetition number 1
+ Minimization done with           94 iterations
+real 19.02
+user 173.27
+sys 15.15
+
+using NP = 10, repetition number 2
+ Minimization done with           94 iterations
+real 18.93
+user 172.39
+sys 15.16
+
+using NP = 10, repetition number 3
+ Minimization done with           94 iterations
+real 18.94
+user 172.50
+sys 15.24
+
+using NP = 10, repetition number 4
+ Minimization done with           94 iterations
+real 18.93
+user 172.74
+sys 14.86
+
+using NP = 10, repetition number 5
+ Minimization done with           94 iterations
+real 18.96
+user 173.04
+sys 14.76
+
+using NP = 10, repetition number 6
+ Minimization done with           94 iterations
+real 18.94
+user 172.16
+sys 15.45
+
+using NP = 10, repetition number 7
+ Minimization done with           94 iterations
+real 19.04
+user 172.32
+sys 16.35
+
+using NP = 10, repetition number 8
+ Minimization done with           94 iterations
+real 18.94
+user 172.47
+sys 15.22
+
+using NP = 10, repetition number 9
+ Minimization done with           94 iterations
+real 18.94
+user 173.17
+sys 14.54
+
+using NP = 10, repetition number 10
+ Minimization done with           94 iterations
+real 18.90
+user 172.39
+sys 14.92
+
+using NP = 12, repetition number 1
+ Minimization done with           94 iterations
+real 17.33
+user 186.75
+sys 18.53
+
+using NP = 12, repetition number 2
+ Minimization done with           94 iterations
+real 17.31
+user 186.50
+sys 18.46
+
+using NP = 12, repetition number 3
+ Minimization done with           94 iterations
+real 17.27
+user 186.02
+sys 18.67
+
+using NP = 12, repetition number 4
+ Minimization done with           94 iterations
+real 17.28
+user 186.30
+sys 18.43
+
+using NP = 12, repetition number 5
+ Minimization done with           94 iterations
+real 17.27
+user 186.20
+sys 18.42
+
+using NP = 12, repetition number 6
+ Minimization done with           94 iterations
+real 17.29
+user 186.41
+sys 18.47
+
+using NP = 12, repetition number 7
+ Minimization done with           94 iterations
+real 17.38
+user 186.66
+sys 19.22
+
+using NP = 12, repetition number 8
+ Minimization done with           94 iterations
+real 17.23
+user 185.76
+sys 18.40
+
+using NP = 12, repetition number 9
+ Minimization done with           94 iterations
+real 17.37
+user 187.69
+sys 17.96
+
+using NP = 12, repetition number 10
+ Minimization done with           94 iterations
+real 17.27
+user 186.23
+sys 18.34
+
+using NP = 14, repetition number 1
+ Minimization done with           94 iterations
+real 15.75
+user 197.05
+sys 19.65
+
+using NP = 14, repetition number 2
+ Minimization done with           94 iterations
+real 15.68
+user 195.70
+sys 20.02
+
+using NP = 14, repetition number 3
+ Minimization done with           94 iterations
+real 15.73
+user 196.81
+sys 19.63
+
+using NP = 14, repetition number 4
+ Minimization done with           94 iterations
+real 15.76
+user 196.87
+sys 20.15
+
+using NP = 14, repetition number 5
+ Minimization done with           94 iterations
+real 15.70
+user 196.55
+sys 19.41
+
+using NP = 14, repetition number 6
+ Minimization done with           94 iterations
+real 15.72
+user 196.62
+sys 19.96
+
+using NP = 14, repetition number 7
+ Minimization done with           94 iterations
+real 15.72
+user 196.41
+sys 19.79
+
+using NP = 14, repetition number 8
+ Minimization done with           94 iterations
+real 15.75
+user 197.25
+sys 19.46
+
+using NP = 14, repetition number 9
+ Minimization done with           94 iterations
+real 15.79
+user 197.45
+sys 19.95
+
+using NP = 14, repetition number 10
+ Minimization done with           94 iterations
+real 15.72
+user 196.46
+sys 19.94
+
+using NP = 16, repetition number 1
+ Minimization done with           94 iterations
+real 15.39
+user 220.19
+sys 20.81
+
+using NP = 16, repetition number 2
+ Minimization done with           94 iterations
+real 15.38
+user 219.88
+sys 20.77
+
+using NP = 16, repetition number 3
+ Minimization done with           94 iterations
+real 15.42
+user 221.19
+sys 20.43
+
+using NP = 16, repetition number 4
+ Minimization done with           94 iterations
+real 15.40
+user 220.92
+sys 20.12
+
+using NP = 16, repetition number 5
+ Minimization done with           94 iterations
+real 15.33
+user 219.97
+sys 20.26
+
+using NP = 16, repetition number 6
+ Minimization done with           94 iterations
+real 15.44
+user 220.81
+sys 20.83
+
+using NP = 16, repetition number 7
+ Minimization done with           94 iterations
+real 15.40
+user 220.82
+sys 20.49
+
+using NP = 16, repetition number 8
+ Minimization done with           94 iterations
+real 15.49
+user 221.52
+sys 20.91
+
+using NP = 16, repetition number 9
+ Minimization done with           94 iterations
+real 15.42
+user 220.56
+sys 20.86
+
+using NP = 16, repetition number 10
+ Minimization done with           94 iterations
+real 15.41
+user 220.08
+sys 20.94
+
+using NP = 18, repetition number 1
+ Minimization done with           94 iterations
+real 14.08
+user 224.93
+sys 21.64
+
+using NP = 18, repetition number 2
+ Minimization done with           94 iterations
+real 13.94
+user 223.30
+sys 20.73
+
+using NP = 18, repetition number 3
+ Minimization done with           94 iterations
+real 13.96
+user 222.49
+sys 22.23
+
+using NP = 18, repetition number 4
+ Minimization done with           94 iterations
+real 14.04
+user 222.06
+sys 23.72
+
+using NP = 18, repetition number 5
+ Minimization done with           94 iterations
+real 14.01
+user 224.52
+sys 20.72
+
+using NP = 18, repetition number 6
+ Minimization done with           94 iterations
+real 20.78
+user 223.70
+sys 21.94
+
+using NP = 18, repetition number 7
+ Minimization done with           94 iterations
+real 13.95
+user 221.66
+sys 22.71
+
+using NP = 18, repetition number 8
+ Minimization done with           94 iterations
+real 13.96
+user 222.89
+sys 21.56
+
+using NP = 18, repetition number 9
+ Minimization done with           94 iterations
+real 13.96
+user 221.47
+sys 22.90
+
+using NP = 18, repetition number 10
+ Minimization done with           94 iterations
+real 14.01
+user 223.14
+sys 22.09
+
+using NP = 20, repetition number 1
+ Minimization done with           94 iterations
+real 14.18
+user 249.89
+sys 24.64
+
+using NP = 20, repetition number 2
+ Minimization done with           94 iterations
+real 14.25
+user 251.18
+sys 24.90
+
+using NP = 20, repetition number 3
+ Minimization done with           94 iterations
+real 14.55
+user 257.12
+sys 24.68
+
+using NP = 20, repetition number 4
+ Minimization done with           94 iterations
+real 14.33
+user 252.72
+sys 25.09
+
+using NP = 20, repetition number 5
+ Minimization done with           94 iterations
+real 14.21
+user 251.66
+sys 23.82
+
+using NP = 20, repetition number 6
+ Minimization done with           94 iterations
+real 14.22
+user 250.24
+sys 24.99
+
+using NP = 20, repetition number 7
+ Minimization done with           94 iterations
+real 14.19
+user 250.24
+sys 24.43
+
+using NP = 20, repetition number 8
+ Minimization done with           94 iterations
+real 14.18
+user 249.64
+sys 24.95
+
+using NP = 20, repetition number 9
+ Minimization done with           94 iterations
+real 14.19
+user 250.63
+sys 23.97
+
+using NP = 20, repetition number 10
+ Minimization done with           94 iterations
+real 14.24
+user 251.76
+sys 24.11
+
