@@ -71,8 +71,8 @@ TheMask[0] = 0
 
 # producing data files for the latex tabulars
 # useful for the paper
-TTSolFile = open("TimesToSolution_Latex.dat", "w")
-ScalingFile = open("Scaling_Latex.dat", "w")
+TTSolFile = open("TimesToSolution_Latex.txt", "w")
+ScalingFile = open("Scaling_Latex.txt", "w")
 for i in range(NFiles):
     MeanTime = np.zeros((NConf[0]))
     StdDev   = np.zeros((NConf[0]))
@@ -139,6 +139,6 @@ ax1.legend(numpoints=1)
 ax2.legend(numpoints=1, bbox_to_anchor = [0.325, 1])
 
 plt.show()
-print("\n\tSaving results... PAPERINO\n")
+print("\n\tSaving results...\n")
 fig1.savefig("ExecutionTimes.eps", format='eps', dpi=1000)
 fig2.savefig("Scaling.eps", format='eps', dpi=1000)
